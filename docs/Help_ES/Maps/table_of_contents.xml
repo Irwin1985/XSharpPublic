@@ -142,16 +142,16 @@
     </topicref>
   </topicref>
   <topicref type="topic" id="423886812341331" build="ALL" modified="2019-06-14T18:30:32.542Z" icon="0" href="XSharp">
-    <caption translate="true">X# Documentation</caption>
+    <caption translate="true">Documentación X#</caption>
     <topicref type="topic" id="423889533736020" build="ALL" modified="2016-01-30T22:08:40.876Z" icon="0" href="Introduction">
-      <caption translate="true">Getting Started with X#</caption>
+      <caption translate="true">Introducción a X#</caption>
       <topicref type="topic" id="425165252463386" build="ALL" modified="2016-05-26T08:37:03.149Z" icon="0" href="Dialects">
-        <caption translate="true">Dialects</caption>
+        <caption translate="true">Dialectos</caption>
         <topicref type="topic" id="437985041510088" build="ALL" modified="2019-12-13T11:25:48.582Z" icon="0" href="dialect_Core">
           <caption translate="true">Core</caption>
         </topicref>
         <topicref type="topic" id="437986969295327" build="ALL" modified="2019-12-13T11:25:55.241Z" icon="0" href="dialect_All-Non-Core-dialects">
-          <caption translate="true">All Non Core dialects</caption>
+          <caption translate="true">Todos los Dialectos No Core</caption>
         </topicref>
         <topicref type="topic" id="437986513610030" build="ALL" modified="2019-12-13T11:26:00.455Z" icon="0" href="dialect_VO">
           <caption translate="true">Visual Objects</caption>
@@ -170,24 +170,24 @@
         </topicref>
       </topicref>
       <topicref type="topic" id="425235102214402" build="ALL" modified="2016-06-02T17:06:00.116Z" icon="0" href="Bring-Your-Own-Runtime-BYOR">
-        <caption translate="true">Bring Your Own Runtime (BYOR)</caption>
+        <caption translate="true">Trae tu propio Runtime (BYOR) (BYOR)</caption>
       </topicref>
       <topicref type="topic" id="423890249842237" build="ALL" modified="2016-01-19T21:14:28.114Z" icon="0" href="Known-Issues">
-        <caption translate="true">Known Issues</caption>
+        <caption translate="true">Problemas conocidos</caption>
       </topicref>
       <topicref type="topic" id="432589452071368" build="ALL" modified="2018-06-07T18:01:46.553Z" icon="0" href="Installation">
-        <caption translate="true">Installation</caption>
+        <caption translate="true">Instalación</caption>
       </topicref>
       <topicref type="topic" id="444174437272376" build="ALL" modified="2021-08-09T14:16:08.764Z" icon="0" href="Redistributing-X">
-        <caption translate="true">Redistributing X#</caption>
+        <caption translate="true">Redistribuyendo X#</caption>
       </topicref>
       <topicref type="topic" id="423886741980303" build="ALL" modified="2017-05-17T10:10:08.820Z" icon="0" href="New-features">
-        <caption translate="true">New language features </caption>
+        <caption translate="true">Nuevas funciones del lenguaje </caption>
         <topicref type="topic" id="423997726350447" build="ALL" modified="2019-01-24T16:49:26.499Z" icon="0" href="new-feat-Anonymous-Methods">
-          <caption translate="true">Anonymous Methods</caption>
+          <caption translate="true">Métodos Anónimos</caption>
         </topicref>
         <topicref type="topic" id="425338296933191" build="ALL" modified="2019-01-24T16:49:31.748Z" icon="0" href="new-feat-Anonymous-Classes">
-          <caption translate="true">Anonymous Types</caption>
+          <caption translate="true">Tipos Anónimos</caption>
         </topicref>
         <topicref type="topic" id="427816560780984" build="ALL" modified="2019-01-24T16:49:36.770Z" icon="0" href="new-feat-ASTYPE">
           <caption translate="true">ASTYPE</caption>
@@ -211,40 +211,40 @@
           <caption translate="true">BEGIN USING</caption>
         </topicref>
         <topicref type="topic" id="426887200470279" build="ALL" modified="2019-01-24T16:50:17.926Z" icon="0" href="new-feat-Collection-Initializers">
-          <caption translate="true">Collection Initializers</caption>
+          <caption translate="true">Inicializadores de colección</caption>
         </topicref>
         <topicref type="topic" id="423997959494963" build="ALL" modified="2019-01-24T16:51:04.265Z" icon="0" href="new-feat-Conditional-Access-Expression">
-          <caption translate="true">Conditional Access Expression</caption>
+          <caption translate="true">Expresión de acceso condicional</caption>
         </topicref>
         <topicref type="topic" id="423999550018776" build="ALL" modified="2019-01-24T16:51:10.634Z" icon="0" href="new-feat-Creating-Generic-Classes">
-          <caption translate="true">Creating Generic Classes</caption>
+          <caption translate="true">Creando clases genéricas</caption>
         </topicref>
         <topicref type="topic" id="423996909584445" build="ALL" modified="2019-01-24T16:51:14.782Z" icon="0" href="new-feat-DEFAULT-Expressions">
           <caption translate="true">DEFAULT Expressions</caption>
         </topicref>
         <topicref type="topic" id="425845216712740" build="ALL" modified="2019-01-24T16:51:18.995Z" icon="0" href="new-feat-EVENT-(Add-and-Remove)">
-          <caption translate="true">EVENT (Add and Remove)</caption>
+          <caption translate="true">EVENTO (Agregar y quitar)</caption>
         </topicref>
         <topicref type="topic" id="424000368292699" build="ALL" modified="2019-01-24T16:51:23.044Z" icon="0" href="new-feat-Expression-IS-Type">
-          <caption translate="true">Expression IS Type</caption>
+          <caption translate="true">Expresión IS Type</caption>
         </topicref>
         <topicref type="topic" id="426888066632269" build="ALL" modified="2019-01-24T16:51:26.885Z" icon="0" href="new-feat-Initializers">
-          <caption translate="true">Initializers</caption>
+          <caption translate="true">Inicializadores</caption>
         </topicref>
         <topicref type="topic" id="426356253849712" build="ALL" modified="2019-01-24T16:51:30.766Z" icon="0" href="new-feat-Interpolated-Strings">
-          <caption translate="true">Interpolated Strings</caption>
+          <caption translate="true">Cadenas interpoladas</caption>
         </topicref>
         <topicref type="topic" id="424000721218508" build="ALL" modified="2019-01-24T16:51:38.324Z" icon="0" href="new-feat-LINQ">
-          <caption translate="true">LINQ Query Expressions</caption>
+          <caption translate="true">Expresiones de consulta LINQ</caption>
         </topicref>
         <topicref type="topic" id="424477017488013" build="ALL" modified="2019-01-24T16:51:42.583Z" icon="0" href="new-feat-NOP">
           <caption translate="true">NOP</caption>
         </topicref>
         <topicref type="topic" id="426887424244545" build="ALL" modified="2019-01-24T16:51:46.899Z" icon="0" href="new-feat-Object-Initializers">
-          <caption translate="true">Object Initializers</caption>
+          <caption translate="true">Inicializadores de objetos</caption>
         </topicref>
         <topicref type="topic" id="424000091554061" modified="2019-01-27T16:09:19.314Z" icon="0" href="new-feat-PROCEDURE-inside-CLASS">
-          <caption translate="true">PROCEDURE inside CLASS</caption>
+          <caption translate="true">PROCEDURE dentro de CLASS</caption>
         </topicref>
         <topicref type="topic" id="424000696810158" build="ALL" modified="2019-01-24T16:49:18.714Z" icon="0" href="new-feat-SWITCH">
           <caption translate="true">SWITCH</caption>
@@ -256,16 +256,16 @@
           <caption translate="true">VAR</caption>
         </topicref>
         <topicref type="topic" id="434413139318325" build="ALL" modified="2023-05-09T23:23:27.872Z" icon="0" href="new-feat-XBase-class-declarations">
-          <caption translate="true">Xbase++ class declarations</caption>
+          <caption translate="true">Declaraciones de clases de Xbase++</caption>
         </topicref>
         <topicref type="topic" id="424000672684667" build="ALL" modified="2019-01-24T16:50:10.529Z" icon="0" href="new-feat-YIELD">
           <caption translate="true">YIELD </caption>
         </topicref>
       </topicref>
       <topicref type="topic" id="428711073823775" build="ALL" modified="2017-05-17T10:08:58.415Z" icon="0" href="Licenses">
-        <caption translate="true">Licensing</caption>
+        <caption translate="true">Licencia</caption>
         <topicref type="topic" id="428707220706899" build="ALL" modified="2017-05-15T21:48:57.359Z" icon="0" href="XSharp-Open-Software-License">
-          <caption translate="true">XSharp Open Software License</caption>
+          <caption translate="true">Licencia de software abierto XSharp</caption>
         </topicref>
         <topicref type="topic" id="428711141122145" build="ALL" modified="2017-05-15T21:45:52.116Z" icon="0" href="Apache-2">
           <caption translate="true">Apache 2</caption>
@@ -275,28 +275,28 @@
         </topicref>
       </topicref>
       <topicref type="topic" id="428708026773084" build="ALL" modified="2020-02-25T17:03:05.673Z" icon="0" href="Acknowledgements">
-        <caption translate="true">Acknowledgements</caption>
+        <caption translate="true">Agradecimientos</caption>
       </topicref>
     </topicref>
     <topicref type="topic" id="423888143662582" build="ALL" modified="2016-05-04T10:32:31.762Z" icon="0" href="VersionHistory">
-      <caption translate="true">Version History</caption>
+      <caption translate="true">Historial de versiones</caption>
     </topicref>
     <topicref type="topic" id="428984094992566" build="ALL" modified="2017-06-12T12:42:21.816Z" icon="0" href="MigratingappsfromVOtoX">
-      <caption translate="true">Migrating apps from VO to X#</caption>
+      <caption translate="true">Migración de aplicaciones de VO a X#</caption>
       <topicref type="topic" id="428986318132862" build="ALL" modified="2017-06-22T14:10:39.314Z" icon="0" href="Example-1-The-VO-Explorer-Examp">
-        <caption translate="true">Example 1: The VO Explorer Example</caption>
+        <caption translate="true">Ejemplo 1: El Explorador de VO</caption>
       </topicref>
       <topicref type="topic" id="428986216317597" build="ALL" modified="2017-06-22T14:10:46.039Z" icon="0" href="Example-2-The-VOPAD-Example">
-        <caption translate="true">Example 2: The VOPAD Example</caption>
+        <caption translate="true">Ejemplo 2: El VOPAD</caption>
       </topicref>
       <topicref type="topic" id="428984468885707" build="ALL" modified="2017-06-12T13:01:28.742Z" icon="0" href="Example-3-The-Pizza-Example">
-        <caption translate="true">Example 3: The Pizza Example</caption>
+        <caption translate="true">Ejemplo 3: La Pizza</caption>
       </topicref>
       <topicref type="topic" id="429063907598028" build="ALL" modified="2017-06-20T09:37:57.133Z" icon="0" href="Example-4-Ole-Automation">
-        <caption translate="true">Example 4: Ole Automation - Excel</caption>
+        <caption translate="true">Ejemplo 4: Automatización Ole - Excel</caption>
       </topicref>
       <topicref type="topic" id="42897067116215" build="ALL" modified="2017-06-20T09:23:11.986Z" icon="0" href="Example-4-The-Email-Client-Exa">
-        <caption translate="true">Example 5: OCX - The Email Client Example </caption>
+        <caption translate="true">Ejemplo 5: OCX - Cliente de Correos </caption>
       </topicref>
     </topicref>
     <topicref type="topic" id="432585631903751" build="ALL" modified="2018-06-07T11:14:11.511Z" icon="0" href="The-X-Runtime">
